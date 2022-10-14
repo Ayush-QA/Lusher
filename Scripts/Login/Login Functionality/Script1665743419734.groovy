@@ -17,3 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://t3.ui-uatserver.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Lusher Signin/div_Enter Email'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Lusher Signin/input_Lusher_email'), 'aayush.qa.test+lusherapi@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Lusher Signin/input_Enter Email_password'), 'ZhqyURWHfo/1XqNB8dAphA==')
+
+WebUI.click(findTestObject('Object Repository/Page_Lusher Signin/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/Page_Lusher Dashboard/h2_Welcome to Lusher'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Lusher Dashboard/h2_Welcome to Lusher'), 'Welcome to Lusher!')
+
+WebUI.click(findTestObject('Object Repository/Page_Lusher Dashboard/span_person'))
+
+WebUI.click(findTestObject('Object Repository/Page_Lusher Dashboard/button_Logout'))
+
+WebUI.closeBrowser()
+

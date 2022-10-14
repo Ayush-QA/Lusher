@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>9c488988-de64-49b9-ae48-fee7a5782643</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.reset-btn.px-5.py-3.roboto.fw-400.fs-19</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cf5dde7e-d914-4ba3-b35e-d6bb6991cb3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary reset-btn px-5 py-3 roboto fw-400 fs-19</value>
+      <webElementGuid>dce64013-179a-4539-87a0-69a4082ee45d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>892942dd-5c96-4f2e-9c6c-7cd13186fe4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;d-flex flex-column flex-fill h-100 w-100&quot;]/app-signin[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;user_outer h-100&quot;]/div[@class=&quot;user d-flex align-items-center h-100&quot;]/div[@class=&quot;row dimension-login m-auto height-form px-3&quot;]/div[@class=&quot;col-md-7 col-12 px-0&quot;]/div[@class=&quot;py-4 h-100&quot;]/div[@class=&quot;shadow-cont h-100&quot;]/form[@class=&quot;form d-flex flex-column justify-content-between h-100 ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;login-main-height d-flex flex-column justify-content-center p-md-0 py-4&quot;]/div[@class=&quot;px-5 pb-4 pb-md-0&quot;]/div[@class=&quot;d-flex justify-content-center mt-4&quot;]/button[@class=&quot;btn btn-primary reset-btn px-5 py-3 roboto fw-400 fs-19&quot;]</value>
+      <webElementGuid>761f3a35-79fe-4bef-a8aa-ad89ab5185e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/following::button[1]</value>
+      <webElementGuid>219c8498-fa27-4204-8b81-4273e340d524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>aafae959-ee01-434b-b1cc-9048102bb153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::button[1]</value>
+      <webElementGuid>d67969e2-ba59-486f-b8e2-2bc20a735174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>04e5c073-f32f-47d9-bfcb-87c6f957db58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>82c619d4-1706-414c-b1af-91f624c2f2f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>b207a890-b2db-42ca-88dc-a954f438d282</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

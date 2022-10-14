@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_person</name>
+   <tag></tag>
+   <elementGuidId>4b1e422c-f94c-4b1f-909b-c448637aedfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-menu-trigger.header-right-buttons.pr-0.mat-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > span.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Lusher'])[1]/following::span[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72fc08ba-13a8-48ce-ab1c-7437e46a72d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>2a36987d-ca42-4f0c-99a3-a6c58d94d594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>person</value>
+      <webElementGuid>ef072bb0-107d-4b4d-bce8-ef5cb9339601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;d-flex flex-column flex-fill h-100 w-100&quot;]/app-main-container[@class=&quot;d-flex flex-fill flex-column ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column&quot;]/header[1]/mat-toolbar[@class=&quot;mat-toolbar w-100 mb-3 mat-toolbar-multiple-rows ng-star-inserted&quot;]/mat-toolbar-row[@class=&quot;mat-toolbar-row&quot;]/div[@class=&quot;row width-main-header&quot;]/div[@class=&quot;col-2 col-sm-6 py-2 d-flex w-100 justify-content-end&quot;]/div[3]/button[@class=&quot;mat-focus-indicator mat-menu-trigger header-right-buttons pr-0 mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/span[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>8a128017-c247-4552-8413-78e6f0691ed3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lusher'])[1]/following::span[7]</value>
+      <webElementGuid>de3e01de-9bd2-493a-8c45-9829f00075c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='folder_open'])[1]/preceding::span[3]</value>
+      <webElementGuid>5464039e-cbaa-4a71-a668-3e3c1c1f516c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='description'])[1]/preceding::span[4]</value>
+      <webElementGuid>d1f42f94-3837-40f9-b184-1dabe02946d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='person']/parent::*</value>
+      <webElementGuid>92df5d0d-a700-425e-8648-6d46dfb36932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span/span</value>
+      <webElementGuid>e9df0f72-9e9b-42cc-b7ad-b45983aa9cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'person' or . = 'person')]</value>
+      <webElementGuid>903fee73-90e0-4b38-8d73-dd376c0f1655</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
